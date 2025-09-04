@@ -15,6 +15,10 @@ Each project is small, self-contained, and demonstrates my ability to apply theo
   *Generates a composite signal and applies Fast Fourier Transform (FFT) to analyze its spectrum.*  
   Skills: Signal processing, frequency-domain analysis, Python  
 
+- **[Control System Response](./Control-System-Response)**  
+  *Models and simulates the step response of a first-order control system using transfer functions.*  
+  Skills: Control theory, system modeling, SciPy, Python  
+
 ---
 
 ## How to Use
